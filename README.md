@@ -30,4 +30,6 @@ Step4: Give any name for shortcut and then click __*"Finish"*__
 
 Hurray you have created shortcut!!!!!!!!!!!!!!!!!!!
 
+__Notice: You have to right click on shortcut and run it as administration.__
+
 > Now you can click this shortcut and redirect to BIOS setup without clicking any keys.

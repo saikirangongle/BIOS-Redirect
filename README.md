@@ -20,7 +20,9 @@ Step2: Click Shortcut
 
 Step3: Enter the script a visible in a below image and enter __*"Next"*__
 
->> __cmd.exe /k shutdown /r /fw /t 1__
+``` bash
+__cmd.exe /k shutdown /r /fw /t 1__ 
+```
 
 ![Third Image](https://drive.google.com/uc?export=view&id=1CJnxbt1IEtL0zAls3BqnxNxI6TSJUN35)
 
